@@ -1,6 +1,7 @@
 # LInteraction - Interaction Plugin for Unreal engine 
 ## Dependence - LTween 
 If you want to use this plugin,you must download **LTween** from Fab first. 
+## Component 
 ### YoyoTweener 
 | Function | Description |
 | ----------- | ----------- |
@@ -10,6 +11,7 @@ If you want to use this plugin,you must download **LTween** from Fab first.
 | Function | Description |
 | ----------- | ----------- |
 | Play | Tween with a delta transform|
+## Actor
 ### InteractiveActor 
 | Function | Description |
 | ----------- | ----------- |
