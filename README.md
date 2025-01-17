@@ -1,6 +1,6 @@
 # LInteraction - Interaction Plugin for Unreal engine 
 ## Dependence - [Ltween](https://github.com/liufei2008/LTween)
-If you want to use this plugin,you must download **LTween** from Fab or Github first. 
+If you want to use this plugin,you must download [LTween](https://github.com/liufei2008/LTween) or [LGUI](https://github.com/liufei2008/LGui)(This plugins contains LTween) from Fab or Github first. 
 ## Component 
 ### YoyoTweener 
 | Function | Description |
